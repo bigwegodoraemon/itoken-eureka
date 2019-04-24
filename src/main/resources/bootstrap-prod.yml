@@ -1,7 +1,7 @@
 spring:
   cloud:
     config:
-      uri: http://localhost:8888
+      uri: http://10.0.0.11:8888
       name: itoken-eureka
       label: master
       profile: dev
